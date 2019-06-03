@@ -1,0 +1,14 @@
+C:\p\WevoAPI\WevoAPI\bin\Debug\netcoreapp2.2\WevoAPI.deps.json
+C:\p\WevoAPI\WevoAPI\bin\Debug\netcoreapp2.2\WevoAPI.runtimeconfig.json
+C:\p\WevoAPI\WevoAPI\bin\Debug\netcoreapp2.2\WevoAPI.runtimeconfig.dev.json
+C:\p\WevoAPI\WevoAPI\bin\Debug\netcoreapp2.2\WevoAPI.dll
+C:\p\WevoAPI\WevoAPI\bin\Debug\netcoreapp2.2\WevoAPI.pdb
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.csprojAssemblyReference.cache
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.csproj.CoreCompileInputs.cache
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.RazorAssemblyInfo.cache
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.RazorAssemblyInfo.cs
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.AssemblyInfoInputs.cache
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.AssemblyInfo.cs
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.RazorTargetAssemblyInfo.cache
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.dll
+C:\p\WevoAPI\WevoAPI\obj\Debug\netcoreapp2.2\WevoAPI.pdb
